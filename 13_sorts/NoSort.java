@@ -8,7 +8,6 @@ import java.util.Arrays;
  **/
 public class NoSort {
 
-
     public static void main(String[] args) {
         String[] arr = new String[]{"D", "a", "F", "B", "c", "A", "z"};
         String[] arr3 = new String[]{"D", "R", "F", "E", "t", "c", "a", "z"};
@@ -39,7 +38,9 @@ public class NoSort {
             if (i == j || i == k) {
                 break;
             }
+            //如果a指针遇到大写字母就停下
             if (arr[i].charAt(0) <= 90) {
+                //b指针遇到小写字母就停下，否则向前移动
                 while (arr[j].charAt(0) < 97) {
                     j--;
                 }
@@ -67,7 +68,9 @@ public class NoSort {
             if (i == j || i == k) {
                 break;
             }
+            //遇到大写字母
             if (arr[i].charAt(0) >= 65 && arr[i].charAt(0) <= 90) {
+                //遇到数字就停下，否则向前移动
                 while (arr[j].charAt(0) > 57) {
                     j--;
                 }
