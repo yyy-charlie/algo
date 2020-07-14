@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/11_sorts/Sorts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="149" selection-start-line="149" selection-end-line="149" />
+            <state relative-caret-position="108">
+              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -201,12 +201,12 @@
       <option name="presentableId" value="Default" />
       <updated>1594607658349</updated>
       <workItem from="1594607663778" duration="14831000" />
-      <workItem from="1594687098405" duration="8240000" />
+      <workItem from="1594687098405" duration="8521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23071000" />
+    <option name="totallyTimeSpent" value="23352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -223,7 +223,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.36958936" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.35849056" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.28079912" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -257,18 +257,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/11_sorts/Sorts.java</url>
-          <line>149</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/13_sorts/CountingSort.java">
@@ -308,8 +296,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/11_sorts/Sorts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        <state relative-caret-position="108">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>

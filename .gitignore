@@ -2,3 +2,5 @@
 /target/production/algo
 
 *.class
+
+/.idea
