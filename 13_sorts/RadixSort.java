@@ -42,6 +42,7 @@ public class RadixSort {
         if (arr.length <= 1) {
             return;
         }
+        //数字0-9
         int[] c = new int[10];
         //计算每个元素的个数
         for (int i = 0; i < arr.length; i++) {

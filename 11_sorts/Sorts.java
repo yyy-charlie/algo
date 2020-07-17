@@ -11,9 +11,9 @@ public class Sorts {
     public static void main(String[] args) {
         int[] a = new int[]{45, 4, 11, 5, 17, 8};
         bubbleSort1(a, a.length);
-//        bubbleSort2(a, a.length);
-//        insertionSort(a, a.length);
-//        selectionSort(a, a.length);
+        bubbleSort2(a, a.length);
+        insertionSort(a, a.length);
+        selectionSort(a, a.length);
         System.out.println(Arrays.toString(a));
     }
 
